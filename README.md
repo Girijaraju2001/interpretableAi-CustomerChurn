@@ -22,5 +22,5 @@ both global and local explanations.
 
 ---
 
-## 📂 Repository Structure
+## By Girija Raju 💫
 
